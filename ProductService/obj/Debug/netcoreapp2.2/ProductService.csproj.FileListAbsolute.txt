@@ -1,0 +1,14 @@
+H:\Study_Proj\MSP\ServiceB\bin\Debug\netcoreapp2.2\ProductService.deps.json
+H:\Study_Proj\MSP\ServiceB\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.json
+H:\Study_Proj\MSP\ServiceB\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.dev.json
+H:\Study_Proj\MSP\ServiceB\bin\Debug\netcoreapp2.2\ProductService.dll
+H:\Study_Proj\MSP\ServiceB\bin\Debug\netcoreapp2.2\ProductService.pdb
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.csprojAssemblyReference.cache
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.csproj.CoreCompileInputs.cache
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cache
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cs
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfoInputs.cache
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfo.cs
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.RazorTargetAssemblyInfo.cache
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.dll
+H:\Study_Proj\MSP\ServiceB\obj\Debug\netcoreapp2.2\ProductService.pdb

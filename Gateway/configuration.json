@@ -1,0 +1,57 @@
+{
+  "ReRoutes": [
+    // Service Customer Route
+    {
+      "DownstreamPathTemplate": "/api/customer/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 62824
+        }
+      ],
+      "UpstreamPathTemplate": "/customer/",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      } 
+    },
+    //  Service Product Route
+    {
+      "DownstreamPathTemplate": "/api/product/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 62828
+        }
+      ],
+      "UpstreamPathTemplate": "/product/",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    //  Service Authentication Route
+    {
+      "DownstreamPathTemplate": "/api/auth/authentication/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 53524
+        }
+      ],
+      "UpstreamPathTemplate": "/authenticate/",
+      "UpstreamHttpMethod": [ "Post" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:62834",
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration",
+    "UseServiceDiscovery": false
+  }
+}

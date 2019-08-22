@@ -1,0 +1,14 @@
+H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.deps.json
+H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.runtimeconfig.json
+H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.runtimeconfig.dev.json
+H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.dll
+H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.pdb
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.csprojAssemblyReference.cache
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.csproj.CoreCompileInputs.cache
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cache
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cs
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.AssemblyInfoInputs.cache
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.AssemblyInfo.cs
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.RazorTargetAssemblyInfo.cache
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.dll
+H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.pdb
