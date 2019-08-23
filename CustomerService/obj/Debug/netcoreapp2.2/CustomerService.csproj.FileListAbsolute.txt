@@ -12,3 +12,17 @@ H:\Study_Proj\MSP\ServiceA\obj\Debug\netcoreapp2.2\CustomerService.AssemblyInfo.
 H:\Study_Proj\MSP\ServiceA\obj\Debug\netcoreapp2.2\CustomerService.RazorTargetAssemblyInfo.cache
 H:\Study_Proj\MSP\ServiceA\obj\Debug\netcoreapp2.2\CustomerService.dll
 H:\Study_Proj\MSP\ServiceA\obj\Debug\netcoreapp2.2\CustomerService.pdb
+H:\Study_Proj\MSP\CustomerService\bin\Debug\netcoreapp2.2\CustomerService.deps.json
+H:\Study_Proj\MSP\CustomerService\bin\Debug\netcoreapp2.2\CustomerService.runtimeconfig.json
+H:\Study_Proj\MSP\CustomerService\bin\Debug\netcoreapp2.2\CustomerService.runtimeconfig.dev.json
+H:\Study_Proj\MSP\CustomerService\bin\Debug\netcoreapp2.2\CustomerService.dll
+H:\Study_Proj\MSP\CustomerService\bin\Debug\netcoreapp2.2\CustomerService.pdb
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.csprojAssemblyReference.cache
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.csproj.CoreCompileInputs.cache
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.RazorAssemblyInfo.cache
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.RazorAssemblyInfo.cs
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.AssemblyInfoInputs.cache
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.AssemblyInfo.cs
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.RazorTargetAssemblyInfo.cache
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.dll
+H:\Study_Proj\MSP\CustomerService\obj\Debug\netcoreapp2.2\CustomerService.pdb

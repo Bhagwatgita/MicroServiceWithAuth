@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Study_Proj\\MSP\\ServiceA\\CustomerService.csproj": {}
+    "H:\\Study_Proj\\MSP\\CustomerService\\CustomerService.csproj": {}
   },
   "projects": {
-    "H:\\Study_Proj\\MSP\\ServiceA\\CustomerService.csproj": {
+    "H:\\Study_Proj\\MSP\\CustomerService\\CustomerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Study_Proj\\MSP\\ServiceA\\CustomerService.csproj",
+        "projectUniqueName": "H:\\Study_Proj\\MSP\\CustomerService\\CustomerService.csproj",
         "projectName": "CustomerService",
-        "projectPath": "H:\\Study_Proj\\MSP\\ServiceA\\CustomerService.csproj",
+        "projectPath": "H:\\Study_Proj\\MSP\\CustomerService\\CustomerService.csproj",
         "packagesPath": "C:\\Users\\rabindra.dahal\\.nuget\\packages\\",
-        "outputPath": "H:\\Study_Proj\\MSP\\ServiceA\\obj\\",
+        "outputPath": "H:\\Study_Proj\\MSP\\CustomerService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [

@@ -3,7 +3,6 @@ H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.runtimeconfig.
 H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.runtimeconfig.dev.json
 H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.dll
 H:\Study_Proj\MSP\AuthService\bin\Debug\netcoreapp2.2\AuthService.pdb
-H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.csprojAssemblyReference.cache
 H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.csproj.CoreCompileInputs.cache
 H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cache
 H:\Study_Proj\MSP\AuthService\obj\Debug\netcoreapp2.2\AuthService.RazorAssemblyInfo.cs

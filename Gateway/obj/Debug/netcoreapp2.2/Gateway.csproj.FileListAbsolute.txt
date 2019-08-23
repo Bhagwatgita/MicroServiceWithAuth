@@ -2,13 +2,12 @@ H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
 H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
 H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
 H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
-H:\Study_Proj\MSP\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
-H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
 H:\Study_Proj\MSP\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb
